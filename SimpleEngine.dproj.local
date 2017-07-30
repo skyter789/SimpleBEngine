@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017/07/30 04:54:05.432,=C:\Users\pacan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/30 05:07:57.690,=C:\Users\pacan\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/07/30 05:15:36.386,C:\Users\pacan\Documents\Embarcadero\Studio\Projects\Brutengine\Unit1.pas=C:\Users\pacan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/30 05:15:36.386,C:\Users\pacan\Documents\Embarcadero\Studio\Projects\Brutengine\Unit1.dfm=C:\Users\pacan\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/07/30 06:22:51.908,C:\Users\pacan\Documents\Embarcadero\Studio\Projects\SimpleEngine.dproj=C:\Users\pacan\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/07/30 06:49:54.655,C:\Users\pacan\Documents\Embarcadero\Studio\Projects\Brutengine\SimpleEngine.dproj=C:\Users\pacan\Documents\Embarcadero\Studio\Projects\SimpleEngine.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
